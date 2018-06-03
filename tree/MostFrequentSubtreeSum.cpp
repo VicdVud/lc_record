@@ -1,10 +1,10 @@
 /*********************************************************************************
-*	  Copyright(C)
-*	  FileName    :   BinaryTreePruning.cpp
+*	Copyright(C)
+*	FileName    :   MostFrequentSubtreeSum.cpp
 *   Author      :   VicdVud
 *   Version     :   1.0.0.1
 *   Date        :   2018-06-03
-*   Description :   The solution of BinaryTreePruning
+*   Description :   The solution of "508. Most Frequent Subtree Sum".
 *********************************************************************************/
 
 /**

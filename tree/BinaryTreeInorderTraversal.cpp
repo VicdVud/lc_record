@@ -1,6 +1,6 @@
 /*********************************************************************************
-*	  Copyright(C)
-*	  FileName    :   BinaryTreeInorderTraversal.cpp
+*	Copyright(C)
+*	FileName    :   BinaryTreeInorderTraversal.cpp
 *   Author      :   VicdVud
 *   Version     :   1.0.0.1
 *   Date        :   2018-06-03

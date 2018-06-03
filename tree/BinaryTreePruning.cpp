@@ -1,10 +1,10 @@
 /*********************************************************************************
-*	  Copyright(C)
-*	  FileName    :   BinaryTreePruning.cpp
+*	Copyright(C)
+*	FileName    :   BinaryTreePruning.cpp
 *   Author      :   VicdVud
 *   Version     :   1.0.0.1
 *   Date        :   2018-04-19
-*   Description :   The solution of BinaryTreePruning
+*   Description :   The solution of "814. BinaryTreePruning".
 *********************************************************************************/
 
 /**

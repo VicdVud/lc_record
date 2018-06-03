@@ -1,10 +1,10 @@
 /*********************************************************************************
-*	  Copyright(C)
-*	  FileName    :   BinaryTreePruning.cpp
+*	Copyright(C)
+*	FileName    :   FindLargestValueInEachTreeRow.cpp
 *   Author      :   VicdVud
 *   Version     :   1.0.0.1
-*   Date        :   2018-04-19
-*   Description :   The solution of BinaryTreePruning
+*   Date        :   2018-06-03
+*   Description :   The solution of "515. Find Largest Value in Each Tree Row".
 *********************************************************************************/
 
 /**
