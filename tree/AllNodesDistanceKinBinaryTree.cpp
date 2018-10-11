@@ -5,7 +5,6 @@
 *   Version     :   1.0.0.1
 *   Date        :   2018-10-11
 *   Description :   The solution of "863. All Nodes Distance K in Binary Tree".
-                    Use DP.
 *********************************************************************************/
 
 /**
